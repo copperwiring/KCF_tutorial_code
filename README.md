@@ -6,4 +6,4 @@ Some of the visualizations shown in the paper are:
 
 - Block Cirulant Matrices (used for negative sampling of the images)
 
-![BCCM Matrix of a sample target](../improved-kcf/kcf-tut-journal/images/targer_circ_shifts.png?raw=true "BCCM Marix of a sample target")
+![BCCM Matrix of a sample target](https://github.com/copperwiring/KCF_tutorial_code/blob/main/images/targer_circ_shifts.png?raw=true "BCCM Marix of a sample target")

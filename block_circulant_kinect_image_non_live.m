@@ -6,8 +6,8 @@ clc;
 %% 
 % Read a sample image and crop parts of the image
 
-srishti_path = 'data/Benchmark/ASrishtialone/img/00180.jpg';
-im_rgb = imread(srishti_path);
+img_path = 'data/Benchmark/person/img/00180.jpg';
+im_rgb = imread(img_path);
 im_rgb = rgb2gray(im_rgb);
 
 % Create a m x n x k dimention aray from the image crops

@@ -1,7 +1,9 @@
 % In KCF tracker, wwe calcuate the gaussian correlation using 
 % kzf = gaussian_correlation(zf, model_xf, kernel.sigma);
-% We can visualize each segment individually as shown below
-% It is recommended that the figure is visualized in full screen
+% We can visualize each segment individually as shown below.
+% It is recommended that the figure is visualized in full screen and
+% should be used with KCF code available at https://www.robots.ox.ac.uk/~joao/circulant/tracker_release2.zip
+%
 
 figure();
 subplot(4,4,2); imshow(patch);

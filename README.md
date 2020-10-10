@@ -10,4 +10,4 @@ Some of the visualizations shown in the paper are:
 ![BCCM Matrix of a sample target](https://github.com/copperwiring/KCF_tutorial_code/blob/main/images/targer_circ_shifts.png?raw=true "BCCM Marix of a sample target")
 
 - BCCM on patch features
-![BCCM for HOG features](https://github.com/copperwiring/KCF_tutorial_code/blob/main/images/targer_circ_shifts.png?raw=true "BCCM Marix of a sample target")
+![BCCM for HOG features](https://github.com/copperwiring/KCF_tutorial_code/blob/main/images/bccm_whole_img_2.png?raw=true "BCCM Marix of a sample target")

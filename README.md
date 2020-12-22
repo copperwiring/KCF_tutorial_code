@@ -1,6 +1,4 @@
-The repository contains the codes for visualization of few mathematical points mentioned in the the paper:
-
-### Kernel Correlation Filter: A Comprehensive Guide, Experimental Analysis, Challenges, and Benchmark Comparisons
+The repository contains the codes for visualization of few mathematical points for KCF.
 
 A sample visualization shown in the paper is below:
 
